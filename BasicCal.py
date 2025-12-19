@@ -27,6 +27,6 @@ def calculator():
             print("Error: Division by zero")
 
     else:
-        print("Invalid choice")
+        print("Invalid choice please choose coorect option")
 
 calculator()
